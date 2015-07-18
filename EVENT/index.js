@@ -48,4 +48,4 @@ server.route({
   }
 });
 
-server.start(function() {});
+server.start(function() { console.log('server running...') });

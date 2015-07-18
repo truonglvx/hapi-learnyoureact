@@ -1,0 +1,33 @@
+{
+  "name": "hapi-learnyoureact",
+  "version": "1.0.0",
+  "description": "Hapi solutions to the learnyoureact nodeschool workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnbrett/hapi-learnyoureact.git"
+  },
+  "keywords": [
+    "hapi",
+    "react",
+    "nodeschool",
+    "learnyoureact"
+  ],
+  "author": "John Brett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnbrett/hapi-learnyoureact/issues"
+  },
+  "homepage": "https://github.com/johnbrett/hapi-learnyoureact",
+  "dependencies": {
+    "browserify": "^11.0.0",
+    "hapi": "^8.8.0",
+    "hapi-react-views": "^3.0.1",
+    "node-jsx": "^0.13.3",
+    "react": "^0.13.3",
+    "reactify": "^1.1.1"
+  }
+}
